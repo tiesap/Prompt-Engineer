@@ -10,7 +10,7 @@
 
 
 
-![Скриншот1] (https://github.com/tiesap/Prompt-Engineer/blob/main/AI-Assistant.jpg?raw=true](https://github.com/tiesap/Prompt-Engineer/blob/main/AI-Assistant.jpg)
+![Скриншот1] (https://github.com/tiesap/Prompt-Engineer/blob/main/AI-Assistant.jpg)
 
 ## 🎯 Цель проекта
 
