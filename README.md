@@ -8,8 +8,6 @@
 Ссылка на проект:
 Телеграм бот - Народные окна [@Peoples_Windows_Bot](https://t.me/Peoples_Windows_Bot)
 
-
-
 ![Скриншот1] (https://github.com/tiesap/Prompt-Engineer/blob/main/AI-Assistant.jpg)
 
 ## 🎯 Цель проекта
